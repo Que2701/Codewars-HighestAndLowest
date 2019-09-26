@@ -1,0 +1,7 @@
+D:\Source\Repos\Projects\Codewars\Codewars-HighestAndLowest\LowestAndHighest\LowestAndHighestApp\bin\Debug\LowestAndHighestApp.exe.config
+D:\Source\Repos\Projects\Codewars\Codewars-HighestAndLowest\LowestAndHighest\LowestAndHighestApp\bin\Debug\LowestAndHighestApp.exe
+D:\Source\Repos\Projects\Codewars\Codewars-HighestAndLowest\LowestAndHighest\LowestAndHighestApp\bin\Debug\LowestAndHighestApp.pdb
+D:\Source\Repos\Projects\Codewars\Codewars-HighestAndLowest\LowestAndHighest\LowestAndHighestApp\obj\Debug\LowestAndHighestApp.csprojAssemblyReference.cache
+D:\Source\Repos\Projects\Codewars\Codewars-HighestAndLowest\LowestAndHighest\LowestAndHighestApp\obj\Debug\LowestAndHighestApp.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Projects\Codewars\Codewars-HighestAndLowest\LowestAndHighest\LowestAndHighestApp\obj\Debug\LowestAndHighestApp.exe
+D:\Source\Repos\Projects\Codewars\Codewars-HighestAndLowest\LowestAndHighest\LowestAndHighestApp\obj\Debug\LowestAndHighestApp.pdb
